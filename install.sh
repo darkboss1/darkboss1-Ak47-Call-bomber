@@ -9,13 +9,16 @@ N='\033[0m'
 
 clear
 echo -e "${B}
-██╗   ██╗ █████╗ ███╗   ███╗██████╗ ██╗██████╗ ███████╗
-╚██╗ ██╔╝██╔══██╗████╗ ████║██╔══██╗██║██╔══██╗██╔════╝
- ╚████╔╝ ███████║██╔████╔██║██████╔╝██║██║  ██║█████╗  
-  ╚██╔╝  ██╔══██║██║╚██╔╝██║██╔═══╝ ██║██║  ██║██╔══╝  
-   ██║   ██║  ██║██║ ╚═╝ ██║██║     ██║██████╔╝███████╗
-   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝     ╚═╝╚═════╝ ╚══════╝
-        ${Y}Vampire Call Bomber Installer${N}
+
+ ######      #     ######   #    #  ######   #######   #####    #####     #   
+ #     #    # #    #     #  #   #   #     #  #     #  #     #  #     #   ##   
+ #     #   #   #   #     #  #  #    #     #  #     #  #        #        # #   
+ #     #  #     #  ######   ###     ######   #     #   #####    #####     #   
+ #     #  #######  #   #    #  #    #     #  #     #        #        #    #   
+ #     #  #     #  #    #   #   #   #     #  #     #  #     #  #     #    #   
+ ######   #     #  #     #  #    #  ######   #######   #####    #####   ##### 
+                                                                              
+        ${Y}darkboss1-Ak47-Call-bomber Call Bomber Installer${N}
 "
 
 echo -e "${Y}[*] Updating packages...${N}"
@@ -30,7 +33,7 @@ pip install requests
 echo -e "${G}[✓] Dependencies installed successfully!${N}"
 
 echo -e "${Y}[*] Making script executable...${N}"
-chmod +x vampire_bomber.py
+chmod +x darkboss1-Ak47-Call-bomber.py
 
 echo -e "${G}[✓] Setup complete.${N}"
 echo -e "${C}To run the tool, type: ${G}python3 vampire_bomber.py${N}"
