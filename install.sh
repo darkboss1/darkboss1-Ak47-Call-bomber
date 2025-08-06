@@ -36,4 +36,4 @@ echo -e "${Y}[*] Making script executable...${N}"
 chmod +x darkboss1-Ak47-Call-bomber.py
 
 echo -e "${G}[✓] Setup complete.${N}"
-echo -e "${C}To run the tool, type: ${G}python3 vampire_bomber.py${N}"
+echo -e "${C}To run the tool, type: ${G}python3 darkboss1-Ak47-Call-bomber.py${N}"
