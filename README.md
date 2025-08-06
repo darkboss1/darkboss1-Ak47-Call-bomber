@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <b>A Powerful, Password-Protected Call Bomber with a Stunning UI and Real API Support</b><br>
+  <b>A Powerful,  Call Bomber with a Stunning UI and Real API Support</b><br>
   <i>Only for Educational & Ethical Testing Purposes</i>
 </p>
 
@@ -12,8 +12,8 @@
 
 ## ⚡ Overview
 
-**darkboss1-Ak47-Call-bomber** is a fast, secured and feature-rich call bombing tool developed by <b>VAMPIRE</b> for ethical purposes.  
-It uses real API integration with interactive CLI, strong password protection, and beautiful interface design.
+**darkboss1-Ak47-Call-bomber** is a fast, secured and feature-rich call bombing tool developed by <b>darkboss1</b> for ethical purposes.  
+It uses real API integration with interactive CLI, and beautiful interface design.
 
 > This tool is built with Termux, Linux and Android compatibility in mind.
 
